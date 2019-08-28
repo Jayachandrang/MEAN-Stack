@@ -1,0 +1,33 @@
+
+Advantages of Mean Stack
+Here, are some most prominent reasons for using Mean Stack technology
+
+Allows creating a simple open source solution which can be used to build robust and maintainable solutions.
+Helps in rapid development of applications
+MEAN is full stack JavaScript which is 100% free. Leverage JavaScript's popularity
+Use a uniform language throughout your stack
+Uses very low memory footprint/overhead
+Helps you to avoid unnecessary groundwork and keeps your application organized
+MongoDB is built for the cloud
+Node.js simplifies the server layer
+MEAN makes code isomorphic
+
+Disadvantages of Mean Stack
+
+MongoDB may be an ideal choice for small to the mid-sized application. However, it is not the best option for large-scale applications
+There are no specific general JS coding guidelines
+Once you have developed the first site using Mean stack technology, it's really hard to go back to the old approach
+It offers poor isolation of server from business logic
+You could potentially lose records
+
+Mean Stack Architecture
+The primary function of various components of Mean Stack Architecture are as follows:
+
+Angular JS: Accept requests and display results to end user
+
+NodeJS: Handle Client and Server Requests
+
+Express JS: Make requests to Database and return a response
+
+MongoDB: Store and retrieve data.
+
